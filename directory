@@ -2,5 +2,5 @@ GPSsensor/
 ├── gps.py  
 ├── insert_gps.php      
 ├── yamacss.css      
-├── LICENSE          
+├── insert_sensor.php          
 └── yamamarslogo.jpg
