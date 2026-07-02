@@ -1,8 +1,8 @@
 <?php
-$server = "mysql309.phy.lolipop.lan";
-$username = "LAA1593625";
-$password = "testTEST";
-$database = "LAA1593625-test";
+$server = "■■■■■■■■■■";
+$username = "■■■■■■■■■";
+$password = "■■■■■■■■■";
+$database = "■■■■■■■■■";
 
 // MySQLに接続
 $db = new mysqli($server, $username, $password, $database);
