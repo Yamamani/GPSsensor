@@ -3,4 +3,4 @@ GPSsensor/
 ├── insert_gps.php      
 ├── yamacss.css      
 ├── insert_sensor.php          
-└── yamamarslogo.jpg
+└── run_both.py
