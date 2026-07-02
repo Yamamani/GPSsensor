@@ -1,5 +1,5 @@
 GPSsensor/
-├── Yamamars.html     
+├── gps.py  
 ├── yamajava.js      
 ├── yamacss.css      
 ├── LICENSE          
