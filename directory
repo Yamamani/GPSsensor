@@ -1,6 +1,6 @@
 GPSsensor/
 ├── gps.py  
-├── yamajava.js      
+├── insert_gps.php      
 ├── yamacss.css      
 ├── LICENSE          
 └── yamamarslogo.jpg
