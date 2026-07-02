@@ -1,5 +1,5 @@
 <?php
-$server = "mysql309.phy.lolipop.lan";
+$server = "■■■■■■■■■.phy.lolipop.lan";
 $username = "LAA1593625";
 $password = "testTEST";
 $database = "LAA1593625-test";
